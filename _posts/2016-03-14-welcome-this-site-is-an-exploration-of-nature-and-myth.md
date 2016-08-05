@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-05T15:37:12.366Z'
-dateModified: '2016-08-05T15:37:04.495Z'
+datePublished: '2016-08-05T15:38:12.605Z'
+dateModified: '2016-08-05T15:38:10.715Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-14-welcome-this-site-is-an-exploration-of-nature-and-myth.md
