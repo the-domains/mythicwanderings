@@ -4,14 +4,28 @@
         <description><![CDATA[mythicwanderings]]></description>
         <link>https://thegrid.ai/mythicwanderings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 15:39:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2016 15:41:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mythicwanderings/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome! This site is an exploration of nature, myth, and the modern world. Come get lost with me.]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ae40441-0710-43fb-8175-778fd4c67d7d.jpg">]]></description>
             <link>https://thegrid.ai/mythicwanderings/welcome-this-site-is-an-exploration-of-nature-and-myth/index.html</link>
             <guid isPermaLink="false">e82b54cf-e2aa-4479-843a-59c0c8054571</guid>
-            <pubDate>Fri, 05 Aug 2016 15:38:12 GMT</pubDate>
+            <pubDate>Fri, 05 Aug 2016 15:40:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[O'er hill and vale...]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9da7638e-e53b-40bb-8d54-757d80252586.jpg">]]></description>
+            <link>https://thegrid.ai/mythicwanderings/oer-hill-and-vale/index.html</link>
+            <guid isPermaLink="false">caf9ed11-8710-4bd7-98e2-cd687e6032bf</guid>
+            <pubDate>Fri, 05 Aug 2016 15:39:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[By the waters...]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbbc9727-3bbe-4f7f-a98a-67c1388de579.jpg">]]></description>
+            <link>https://thegrid.ai/mythicwanderings/by-the-waters/index.html</link>
+            <guid isPermaLink="false">8349e041-30d9-41b8-aa26-fc4b3f7e59b4</guid>
+            <pubDate>Fri, 05 Aug 2016 15:39:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Come away...]]></title>
@@ -19,20 +33,6 @@
             <link>https://thegrid.ai/mythicwanderings/c430c451-9a46-4e01-85d4-1f5f8734cf85/index.html</link>
             <guid isPermaLink="false">c430c451-9a46-4e01-85d4-1f5f8734cf85</guid>
             <pubDate>Fri, 05 Aug 2016 15:39:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9da7638e-e53b-40bb-8d54-757d80252586.jpg">]]></description>
-            <link>https://thegrid.ai/mythicwanderings/oer-hill-and-vale/index.html</link>
-            <guid isPermaLink="false">caf9ed11-8710-4bd7-98e2-cd687e6032bf</guid>
-            <pubDate>Fri, 05 Aug 2016 15:37:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbbc9727-3bbe-4f7f-a98a-67c1388de579.jpg">]]></description>
-            <link>https://thegrid.ai/mythicwanderings/by-the-waters/index.html</link>
-            <guid isPermaLink="false">8349e041-30d9-41b8-aa26-fc4b3f7e59b4</guid>
-            <pubDate>Fri, 05 Aug 2016 15:37:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
