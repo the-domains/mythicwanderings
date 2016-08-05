@@ -4,14 +4,21 @@
         <description><![CDATA[mythicwanderings]]></description>
         <link>https://thegrid.ai/mythicwanderings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 15:35:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2016 15:36:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mythicwanderings/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome! This site is an exploration of nature, myth, and the modern world. Come get lost with me.]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ae40441-0710-43fb-8175-778fd4c67d7d.jpg">]]></description>
             <link>https://thegrid.ai/mythicwanderings/welcome-this-site-is-an-exploration-of-nature-and-myth/index.html</link>
             <guid isPermaLink="false">e82b54cf-e2aa-4479-843a-59c0c8054571</guid>
-            <pubDate>Fri, 05 Aug 2016 15:35:26 GMT</pubDate>
+            <pubDate>Fri, 05 Aug 2016 15:36:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b67985b3-2fff-4b79-bac6-dc4c804831b2.jpg">]]></description>
+            <link>https://thegrid.ai/mythicwanderings/c430c451-9a46-4e01-85d4-1f5f8734cf85/index.html</link>
+            <guid isPermaLink="false">c430c451-9a46-4e01-85d4-1f5f8734cf85</guid>
+            <pubDate>Fri, 05 Aug 2016 15:35:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/mythicwanderings/by-the-waters/index.html</link>
             <guid isPermaLink="false">8349e041-30d9-41b8-aa26-fc4b3f7e59b4</guid>
             <pubDate>Fri, 05 Aug 2016 15:31:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b67985b3-2fff-4b79-bac6-dc4c804831b2.jpg">]]></description>
-            <link>https://thegrid.ai/mythicwanderings/c430c451-9a46-4e01-85d4-1f5f8734cf85/index.html</link>
-            <guid isPermaLink="false">c430c451-9a46-4e01-85d4-1f5f8734cf85</guid>
-            <pubDate>Mon, 14 Mar 2016 04:08:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
